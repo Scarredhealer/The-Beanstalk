@@ -1,0 +1,7 @@
+Welcome to The Beanstalk 
+this is the official repository of the project
+The team members involved in the development of this project are : 
+		Devansh Shrivastava
+		Elizabeth Varsha
+		Jesiel Aashish
+		
